@@ -95,7 +95,7 @@ Pengujian statistik dilakukan untuk mengevaluasi apakah terdapat perbedaan perfo
 
 Taraf signifikansi yang digunakan adalah **5% (\(\alpha = 0,05\))**.
 
-### 1. Uji Signifikansi SSE
+### 1. Uji Signifikansi Sum of Squared Error (SSE)
 
 **Friedman Test**
 - P-value: `0.000000`
